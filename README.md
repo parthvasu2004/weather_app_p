@@ -52,4 +52,5 @@ A sleek, responsive, and professional weather web app that displays real-time we
 
 1. Clone this repository:
    ```bash
-   gh repo clone parthvasu2004/weather_app_p
+   [gh repo clone parthvasu2004/weather_app_p
+](https://github.com/parthvasu2004/weather_app_p.git)
